@@ -1,5 +1,5 @@
 # SolidWorks_projects
-These projects were designed with solidwork 2009. The projects videos are also available in youtube links.
+These projects were designed with solidworks 2009. The projects videos are also available in youtube links.
 <br/>
 <br/>
 
