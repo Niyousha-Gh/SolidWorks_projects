@@ -14,7 +14,7 @@ project 1
 <br/>
 <br/>
 
-project2
+project 2
 <br/>
 [youtube link](https://youtu.be/G4wT8VkVze4)
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project2-1.png)
@@ -24,7 +24,7 @@ project2
 <br/>
 <br/>
 
-project3
+project 3
 <br/>
 [youtube link](https://www.youtube.com/watch?v=iJ_NVxIIaj0)
 <br/>
@@ -35,7 +35,7 @@ project3
 <br/>
 <br/>
 
-project4
+project 4
 <br/>
 [youtube link](https://youtu.be/t7OrbS5nZJQ)
 <br/>
