@@ -1,6 +1,7 @@
 # SolidWorks_projects
-project1
+These projects were designed with solidwork 2009. the projects videos are also available in youtube links.
 
+# project1
 
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project1-1.png)
 <br/>
