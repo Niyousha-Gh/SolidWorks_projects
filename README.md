@@ -3,7 +3,7 @@ These projects were designed with solidwork 2009. the projects videos are also a
 <br/>
 <br/>
 
-project1
+project 1
 <br/>
 [youtube link](https://youtu.be/Mm404RhqZok)
 <br/>
@@ -11,7 +11,6 @@ project1
 <br/>
 
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project1-2.png)
-<br/>
 <br/>
 <br/>
 
@@ -24,7 +23,6 @@ project2
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project2-2.png)
 <br/>
 <br/>
-<br/>
 
 project3
 <br/>
@@ -34,7 +32,6 @@ project3
 <br/>
 
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project3-2.png)
-<br/>
 <br/>
 <br/>
 
