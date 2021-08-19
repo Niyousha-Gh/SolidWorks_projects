@@ -7,7 +7,6 @@ project1
 <br/>
 [youtube link](https://youtu.be/Mm404RhqZok)
 <br/>
-<br/>
 ![Alt Text](https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project1-1.png)
 <br/>
 
