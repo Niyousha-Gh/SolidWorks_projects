@@ -3,10 +3,6 @@ These projects were designed with solidworks 2009. The projects videos are also 
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png">
-</p>
-
 project 1
 <br/>
 [youtube link](https://youtu.be/Mm404RhqZok)
