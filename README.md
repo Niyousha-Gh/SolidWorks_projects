@@ -3,6 +3,10 @@ These projects were designed with solidworks 2009. The projects videos are also 
 <br/>
 <br/>
 
+<p align="center">
+  <img width="400" src="https://github.com/Niyousha-Gh/SolidWorks_projects/blob/main/project1-1.png">
+</p>
+
 project 1
 <br/>
 [youtube link](https://youtu.be/Mm404RhqZok)
